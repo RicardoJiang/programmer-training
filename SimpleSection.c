@@ -36,5 +36,3 @@ int main(void)
     fun1(static_var + static_var2 + a + b);
     return a;
 }
-
-
