@@ -1,3 +1,4 @@
+#include "pic.h"
 static int a;
 extern int b;
 extern void ext();
